@@ -1,4 +1,6 @@
-# ```python
+# ```<p align="center">
+  <em>"Escrevendo código e torcendo para funcionar de primeira."</em>
+</p>
 def saudacao_visitante():
     print("Olá 👋")
 
