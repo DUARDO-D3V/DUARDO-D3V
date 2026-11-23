@@ -27,7 +27,7 @@ Sou um desenvolvedor focado na criação de interfaces modernas, escaláveis e d
 
 📖 **[Marinete Teixeira](https://marineteteixeira.com.br/)** | Landing page institucional focada em alta conversão e performance, com design responsivo otimizado para mobile e desktop.
 
-🔭 **Portal NOC** | Centro de comando corporativo full-stack (Node.js, MySQL) integrado à API do Zabbix e WebSockets. Centraliza monitoramento de incidentes em tempo real, base de conhecimento e controle de acessos via JWT.
+🔭 **Portal Intranet** | Centro de comando corporativo full-stack (Node.js, MySQL) integrado à API do Zabbix e WebSockets. Centraliza monitoramento de incidentes em tempo real, base de conhecimento e controle de acessos via JWT.
 
 🎮 *No meu tempo livre, configuro e crio mods para diversos jogos.*
 
